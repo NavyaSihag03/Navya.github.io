@@ -77,3 +77,8 @@ a:hover,a:visited{
   text-decoration:underline;
   color: #3D8361;
 }
+.footer-link{
+  display:inline;
+  margin-right:2px;
+}
+  
